@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/k/polishing_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/k/polishing_ws/src/polishingrobot/aubo_cplusplus_control/include/**",
+        "/home/k/polishing_ws/src/polishingrobot/can_drive_pkg/include/**",
+        "/home/k/polishing_ws/src/polishingrobot/polishingrobot_onlineplanner/include/**",
+        "/home/k/polishing_ws/src/polishingrobot/poloshingrobot_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
